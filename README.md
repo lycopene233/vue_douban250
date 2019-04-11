@@ -1,11 +1,11 @@
 # vue-douban250
 
-## 概要
+### 概要
 
 - 人気映画（豆瓣250）のリストページ
 - 初めてのvueチャレンジ
 
-## 実装機能
+### 実装機能
 
 - 豆瓣250というapiから人気映画の情報を取ってくる
 - 映画のリストページ作成
@@ -13,13 +13,13 @@
 - ソート機能（新しい順｜古い順｜評価順）
 - お気に入りの登録機能＆フィルター機能
 
-## 技術チャンレンジ
+### 技術チャンレンジ
 
 - vue-cli (webpack)
 - vue-resource (jsonp)
 - referrerのmetaタグ 
 
-## スクショ
+### スクショ
 
 - 一覧画面
 <img width="350" alt="屏幕快照 2019-04-12 上午12 41 57" src="https://user-images.githubusercontent.com/34592922/55972349-4f91af00-5cbe-11e9-9382-ba8b68df29cc.png">
@@ -33,12 +33,16 @@
 - お気に入り映画の抽出
 <img width="351" alt="屏幕快照 2019-04-12 上午12 44 47" src="https://user-images.githubusercontent.com/34592922/55972369-56b8bd00-5cbe-11e9-8be0-e72d87e5df43.png">
 
-## 次でチャレンジしたい項目
+### 作成時間
+約5時間
+
+### 次でチャレンジしたい項目
 - vue-router
 - Nuxt.js
 - vueのanimation
 - node.js & database との連携
 
+<br><br>
 
 > A Vue.js project
 
